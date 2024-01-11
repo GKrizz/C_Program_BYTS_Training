@@ -8,4 +8,6 @@
 ![p5](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/b92cc8ae-e47e-4fb5-8955-16ece785167a)
 ![p6](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/baebf4cd-a688-47d0-846c-06772d225eae)
 
-
+![p7](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/a9a6970c-f77c-4c91-874f-fe96b544209e)
+![p8](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/4b929cde-8578-4347-8f83-c3968651e4cc)
+![p9](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/f1129cff-616b-4be1-be61-2cad1d3c3e70)
