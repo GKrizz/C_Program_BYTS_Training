@@ -96,3 +96,49 @@ Output:
     5	4	3	2	
     5	4	3	2	1	
 */
+
+void main(){
+  int i,j;
+  for(i=1;i<=5;i++){
+    for(j=i;j>=1;j--){
+        printf("%d\t",j);
+      }
+      printf("\n");
+    }
+
+    printf("\n");
+    
+    int x,y;
+    for(x=5;x>=1;x--){
+        for(y=x;y>=1;y--){
+            printf("%d\t",y);
+      }
+      printf("\n");
+    }
+}
+/*
+    1	
+    2	1	
+    3	2	1	
+    4	3	2	1	
+    5	4	3	2	1	
+
+    5	4	3	2	1	
+    4	3	2	1	
+    3	2	1	
+    2	1	
+    1
+
+    A	
+    B	A	
+    C	B	A	
+    D	C	B	A	
+    E	D	C	B	A	
+
+    E	D	C	B	A	
+    D	C	B	A	
+    C	B	A	
+    B	A	
+    A	
+
+*/
