@@ -11,3 +11,6 @@
 ![p7](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/a9a6970c-f77c-4c91-874f-fe96b544209e)
 ![p8](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/4b929cde-8578-4347-8f83-c3968651e4cc)
 ![p9](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/f1129cff-616b-4be1-be61-2cad1d3c3e70)
+
+![p10](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/d2ab9681-246e-4512-b581-9cb59e718a54)
+![p13](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/8749aea6-a9f9-4f5b-be5a-9a7aeb0e89d4)
