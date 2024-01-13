@@ -79,10 +79,10 @@ Output:
     5	5	5	5	5
 
     *
-	*	*
-	*	*	*
-	*	*	*	*
-	*	*	*	*	*
+    *	*
+    *	*	*
+    *	*	*	*
+    *	*	*	*	*
 
     A	
     A	B	
@@ -140,50 +140,5 @@ void main(){
     C	B	A	
     B	A	
     A	
-
-*/
-void main(){
-  int i,j;
-  for(i=1;i<=5;i++){
-    for(j=5;j>=i;j--){
-        printf("%d\t",j);
-      }
-      printf("\n");
-    }
-
-    printf("\n");
-    int x,y;
-    for(x=5;x>=1;x--){
-        for(y=5;y>=x;y--){
-            printf("%d\t",y);
-      }
-      printf("\n");
-    }
-}
-
-/*
-    5	4	3	2	1	
-    5	4	3	2	
-    5	4	3	
-    5	4	
-    5	
-
-    5	
-    5	4	
-    5	4	3	
-    5	4	3	2	
-    5	4	3	2	1
-
-    E	D	C	B	A	
-    E	D	C	B	
-    E	D	C	
-    E	D	
-    E	
-
-    E	
-    E	D	
-    E	D	C	
-    E	D	C	B	
-    E	D	C	B	A	
 
 */
