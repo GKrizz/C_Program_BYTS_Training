@@ -188,3 +188,48 @@ void main(){
     E	D	C	B	A	
 
 */
+void main(){
+  int i,j;
+  for(i=5;i>=1;i--){
+    for(j=1;j<=i;j++){
+        printf("%d\t",j);
+      }
+      printf("\n");
+    }
+
+    printf("\n");
+    int x,y;
+    for(x=1;x<=5;x++){
+        for(y=x;y<=5;y++){
+            printf("%d\t",y);
+      }
+      printf("\n");
+    }
+}
+
+/*
+1	2	3	4	5	
+1	2	3	4	
+1	2	3	
+1	2	
+1	
+
+1	2	3	4	5	
+2	3	4	5	
+3	4	5	
+4	5	
+5	
+
+A	B	C	D	E	
+A	B	C	D	
+A	B	C	
+A	B	
+A	
+
+A	B	C	D	E	
+B	C	D	E	
+C	D	E	
+D	E	
+E	
+
+*/
