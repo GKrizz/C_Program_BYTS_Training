@@ -20,3 +20,6 @@
 
 ![p15](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/dbfe27cd-e1cb-4a98-9900-69966d8e5b45)
 ![p11](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/a04ea498-ba79-4e37-90f6-eb178813c1ca)
+
+![p16](https://github.com/GKrizz/Pyramid_pattern_in_C/assets/103564745/a0401fbf-f2de-47b2-a080-0b7a294c2ab0)
+
