@@ -267,3 +267,48 @@ void main(){
     *	*	
     *	
 */
+
+void main(){
+  int i,j;
+  for(i=1;i<=5;i++){
+    for(j=1;j<=5;j++){
+        if(i==1||i==5||j==1||j==5){
+            printf("*");
+        }else{
+            printf(" ");
+        }
+        
+      }
+      printf("\n");
+    }
+    
+    printf("\n");
+    
+      int x,y;
+      for(x=1;x<=5;x++){
+        for(y=1;y<=5;y++){
+            if(y==1||x==y||x==5){
+                printf("*");
+            }else{
+                printf(" ");
+            }
+            
+          }
+          printf("\n");
+        }
+}
+
+/*
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+
+*    
+* *   
+*   *  
+*     * 
+* * * * *
+
+*/
