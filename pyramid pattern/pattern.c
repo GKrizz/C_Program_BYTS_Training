@@ -347,3 +347,38 @@ void main(){
         1	0	1	0	
         1	0	1	0	1	
 */
+
+void main(){
+  int i,j,k=1;
+  for(i=1;i<=5;i++){
+    for(j=1;j<=i;j++){
+       printf("%d",k++);
+      }
+      printf("\n");
+    }
+    
+    printf("\n");
+    
+      int x,y,z=1;
+      for(x=1;x<=5;x++){
+        for(y=1;y<=x;y++){
+            printf("%d",z++%2);
+            
+          }
+          printf("\n");
+        }
+}
+/*
+1
+2 3
+4 5 6
+7 8 9 10
+1112131415
+
+1
+01
+010
+1010
+10101
+
+*/
