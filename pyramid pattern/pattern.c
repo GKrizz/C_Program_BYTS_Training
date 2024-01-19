@@ -382,3 +382,58 @@ void main(){
 10101
 
 */
+
+void main(){
+  int i,j;
+  for(i=1;i<=5;i++){
+    for(j=1;j<=i;j++){
+       printf("%d",j);
+      }
+      printf("\n");
+    }
+    
+    printf("\n");
+    
+      int x,y,z;
+      for(x=1;x<=5;x++){
+          for(z=5;z>=x;z--){
+              printf(" ");
+          }
+        for(y=1;y<=x;y++){
+            printf("%d",y);
+          }
+          printf("\n");
+        }
+
+        printf("\n");
+    
+      int a,b,c;
+      for(a=1;a<=5;a++){
+          for(c=5;c>=a;c--){
+              printf(" ");
+          }
+        for(b=1;b<=a;b++){
+            printf("%d ",b);
+          }
+          printf("\n");
+        }
+}
+/*
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+         1
+       1 2
+     1 2 3
+   1 2 3 4
+ 1 2 3 4 5
+
+      1 
+     1 2 
+    1 2 3 
+   1 2 3 4 
+  1 2 3 4 5 
+*/
